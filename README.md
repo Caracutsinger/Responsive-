@@ -1,0 +1,2 @@
+# Responsive-
+&lt;h1>My First Bootstrap Page&lt;/h1>   &lt;p>Resize this responsive page to see the effect!&lt;/p> &lt;/div>  &lt;div class="container">   &lt;div class="row">     &lt;div class="col-sm-4">       &lt;h3>Column 1&lt;/h3>       &lt;p>Lorem ipsum dolor..&lt;/p>     &lt;/div>     &lt;div class="col-sm-4">       &lt;h3>Column 2&lt;/h3>       &lt;p>Lorem ipsum dolor..&lt;/p>     &lt;/div>     &lt;div class="col-sm-4">       &lt;h3>Column 3&lt;/h3>       &lt;p>Lorem ipsum dolor..&lt;/p>
